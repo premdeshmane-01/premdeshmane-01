@@ -15,10 +15,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 Currently mastering **React & MongoDB**
-- 💬 Ask me about **App/Web Development**
+- 🌱 Currently mastering **React, Mongo & ML**
+- 💬 Ask me about **App/Web Development And AI-ML Engineering**
 - 📫 Reach me at **premdeshmane01@gmail.com**
-- 📄 Check my experiences: [Portfolio](https://shorturl.at/K5IkL)
+- 📄 Check my experiences: [Portfolio](https://portfolio-prem-4m65.vercel.app)
 - ⚡ Fun fact: **I organize my CSS with BEM methodology because my life motto is 'A place for everything, and everything in its place... even the buttons!'**
 
 ---
