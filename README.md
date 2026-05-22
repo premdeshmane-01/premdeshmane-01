@@ -13,7 +13,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=161b22)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=161b22)](https://github.com/premdedshmane-01)
 [![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/yourusername)
 
 </div>
