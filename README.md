@@ -1,69 +1,62 @@
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Prem Deshmane — Tech & Marketing | Let's Build Experiences"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Prem%20Deshmane%20👋&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Builder%20•%20Open%20Source%20Contributor%20•%20AI%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Engineering+Student+%40+Maharashtra%2C+India;GSSoC+2026+Contributor+%7C+Open+Source+Builder;Building+with+AI+%2B+Full-Stack+Dev;Turning+Ideas+into+Products+%F0%9F%9A%80;Learning+in+Public+%E2%86%92+Growing+in+Public)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=C0392B&center=true&vCenter=true&width=680&lines=Software+Engineer+%7C+Open+Source+Contributor;AI+%26+Full-Stack+Developer+based+in+India;GSSoC+2026+Contributor;Building+products+that+solve+real+problems)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prem--deshmane01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-deshmane01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prem-4m65.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-@prem.rjain-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prem.rjain)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premdeshmane01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-xperiences.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://xperiences.vercel.app)
+[![Email](https://img.shields.io/badge/Gmail-premdeshmane01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premdeshmane01@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40prem.rjain-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prem.rjain)
 
-[![GitHub followers](https://img.shields.io/github/followers/premdeshmane-01?style=for-the-badge&logo=github&logoColor=white&label=Follow&color=161b22)](https://github.com/premdeshmane-01)
-[![Profile Views](https://komarev.com/ghpvc/?username=premdeshmane-01&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/premdeshmane-01)
+[![GitHub followers](https://img.shields.io/github/followers/premdeshmane-01?style=for-the-badge&logo=github&label=Follow&color=161b22)](https://github.com/premdeshmane-01)
+[![Profile Views](https://komarev.com/ghpvc/?username=premdeshmane-01&style=for-the-badge&color=C0392B&label=PROFILE+VIEWS)](https://github.com/premdeshmane-01)
 
 </div>
 
 ---
 
-## `> whoami`
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+## About Me
 
 ```yaml
-name       : Prem Deshmane
-role       : Engineering Student & Developer
-location   : Maharashtra, India
-focus      : AI • Full-Stack • Open Source
-status     : Building in public. Contributing daily.
-open_to    : Collabs, Open Source, Internships
-portfolio  : portfolio-prem-4m65.vercel.app
+Name        : Prem Deshmane
+Role        : Engineering Student & Software Developer
+Location    : Maharashtra, India
+Focus       : Artificial Intelligence  •  Full-Stack Development  •  Open Source
+Status      : Actively contributing to open source — available for internships and collabs
+Portfolio   : xperiences.vercel.app
 ```
 
-> *"Ship it. Iterate. Grow."*
-
-I'm a **21-year-old builder** from Maharashtra who believes in learning by doing.  
-Whether it's fixing UI bugs in open source repos, experimenting with AI tools, or  
-helping fellow students navigate tech — I'm always building something.
-
-<br clear="right"/>
+I am a software engineering student with a focus on AI-integrated development and full-stack web applications. I contribute actively to open source, build tools with practical utility, and create technical content that helps students enter the developer ecosystem. My work sits at the intersection of technology and community — I care about building things that are both well-engineered and genuinely useful.
 
 ---
 
-## `> current --focus`
+## Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔥 Right Now
-- 🚀 Actively contributing to **GSSoC 2026**
-- 🤖 Building **AI-integrated** tools & projects
-- 🌐 Mastering **React, MongoDB & ML**
-- 📢 Creating student-focused **tech content** on LinkedIn
-- 🧠 Leveling up in **Computer Vision + ISL Recognition**
+**Active Work**
+- Contributing to open source projects via **GSSoC 2026**
+- Developing an **Indian Sign Language Recognition** system using MediaPipe and TensorFlow
+- Deepening expertise in **React, MongoDB, and Machine Learning**
+- Creating educational tech content for students on LinkedIn
 
 </td>
 <td width="50%">
 
-### 🎯 This Year
-- Make meaningful **open source contributions**
-- Build products with **real-world impact**
-- Grow a strong **developer community presence**
-- Strengthen my **technical personal brand**
-- Land an **AI / dev-focused** internship or role
+**2025–26 Goals**
+- Deliver consistent, high-quality open source contributions
+- Ship full-stack projects with measurable real-world impact
+- Build a strong professional presence in developer communities
+- Secure an internship in software engineering or AI development
 
 </td>
 </tr>
@@ -71,7 +64,7 @@ helping fellow students navigate tech — I'm always building something.
 
 ---
 
-## `> tech --stack`
+## Tech Stack
 
 **Languages**
 
@@ -79,11 +72,15 @@ helping fellow students navigate tech — I'm always building something.
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,html,css" />
 </div>
 
+<br/>
+
 **Frontend & Mobile**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,vue,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,flutter" />
 </div>
+
+<br/>
 
 **Backend, Databases & Cloud**
 
@@ -91,7 +88,9 @@ helping fellow students navigate tech — I'm always building something.
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase,django" />
 </div>
 
-**AI / ML**
+<br/>
+
+**AI & Machine Learning**
 
 <div align="center">
 
@@ -99,106 +98,102 @@ helping fellow students navigate tech — I'm always building something.
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
+
+<br/>
 
 **Tools & Platforms**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </div>
 
 ---
 
-## `> open-source --contributions`
+## Open Source
 
 <div align="center">
 
-[![GSSoC](https://img.shields.io/badge/GSSoC_2026-Active_Contributor-E97316?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
+[![GSSoC 2026](https://img.shields.io/badge/GSSoC_2026-Active_Contributor-C0392B?style=for-the-badge&logo=git&logoColor=white)](https://gssoc.girlscript.tech/)
 
 </div>
 
-**What I work on:**
+<br/>
 
-| Area | Type of Contribution |
-|------|---------------------|
-| 🎨 UI/UX Fixes | Responsive design, theme toggles, visual bugs |
-| ⚡ JavaScript | Dropdown interactions, functionality fixes |
-| 📝 Documentation | README improvements, onboarding guides |
-| 🔧 Features | Enhancements, beginner-friendly issue fixes |
+| Contribution Area | Details |
+|---|---|
+| **UI/UX Fixes** | Responsive layouts, theme toggle bugs, cross-browser compatibility |
+| **JavaScript** | Dropdown interactions, event handling, functionality enhancements |
+| **Documentation** | README improvements, contribution guides, onboarding docs |
+| **Feature Development** | Beginner-friendly issue resolution, minor feature additions |
 
-> I focus on **quality over quantity** — every PR should genuinely improve the project.
+I prioritize contribution quality over volume. Every pull request I submit is reviewed thoroughly and designed to leave the codebase better than I found it.
 
 ---
 
-## `> git log --stats`
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=premdeshmane-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=premdeshmane-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=C0392B&icon_color=C0392B&text_color=c9d1d9&ring_color=C0392B&border_radius=10"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premdeshmane-01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=premdeshmane-01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=C0392B&text_color=c9d1d9&border_radius=10"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=premdeshmane-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&border_radius=12" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=premdeshmane-01&theme=tokyonight&hide_border=true&background=0d1117&stroke=C0392B&ring=C0392B&fire=ff6b6b&currStreakLabel=C0392B&border_radius=10" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=premdeshmane-01&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=7c3aed&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=premdeshmane-01&theme=tokyo-night&bg_color=0d1117&color=C0392B&line=C0392B&point=ff6b6b&area=true&area_color=C0392B&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## `> git trophy --display`
+## Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=premdeshmane-01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&row=1" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=premdeshmane-01&theme=tokyonight&no-frame=true&margin-w=6&row=1" width="95%"/>
 </div>
 
 ---
 
-## `> echo $FACTS`
+## A Few Things Worth Knowing
 
-```bash
-$ cat fun_facts.txt
-
-⚡  Gym 6 days/week — same discipline goes into code
-🏸  Daily badminton player (reflex training = debugging prep)
-🌙  Best ideas hit after midnight
-🤖  Building an Indian Sign Language recognition system with MediaPipe + TensorFlow
-📱  If it doesn't solve a real problem, I'm not building it
-🎯  Firm believer: consistency > intensity
-💬  Ask me about Web Dev, App Dev, and AI/ML Engineering
+```
+• I train six days a week — the same discipline carries into my development work.
+• I'm building a real-time Indian Sign Language recognition system as a hackathon project.
+• I create technical content on LinkedIn focused on open source, AI tools, and student growth.
+• My best work happens when the problem is real and the deadline is real.
+• I believe clean code and clean UI are equally non-negotiable.
 ```
 
 ---
 
-## `> quote --random`
+## Dev Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 ---
 
-## `> connect --with-me`
-
 <div align="center">
 
-*Open to collaborations, open source projects, internships, and good conversations.*
+*Open to internships, open source collaborations, and meaningful technical conversations.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-deshmane01)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-prem-4m65.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prem.rjain)
-[![Email](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premdeshmane01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-deshmane01)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://xperiences.vercel.app)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:premdeshmane01@gmail.com)
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" width="100%"/>
+---
 
+<div align="center">
+  <sub>Built with intention. Updated consistently.</sub>
 </div>
